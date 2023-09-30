@@ -1,7 +1,7 @@
 
 # Text Manipulator React App
 
-<img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(3).png" alt="Alt Text" height="150">
+<img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(3).png" alt="Alt Text" height="450">
 
 ## Overview
 
