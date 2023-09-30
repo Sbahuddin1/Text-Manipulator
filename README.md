@@ -1,6 +1,3 @@
-Sure, here's a sample README.md for your Text Manipulator React App that includes information about its features, usage, and how to get started:
-
----
 
 # Text Manipulator React App
 
