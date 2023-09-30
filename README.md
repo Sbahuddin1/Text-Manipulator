@@ -1,7 +1,7 @@
 
 # Text Manipulator React App
 
-<img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(3).png" alt="Alt Text" height="550">
+<img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(3).png" alt="Alt Text">
 
 ## Overview
 
@@ -11,13 +11,13 @@ The Text Manipulator React App is a responsive web application that allows you t
 
 - **Text Operations:** Perform a variety of text operations, including capitalization, text reversal, and character count.
 - **Responsive Design:** The app is designed to work seamlessly on various screen sizes, from mobile devices to desktops.
-   <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(1).png" alt="Alt Text" height="550">
+   <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(1).png" alt="Alt Text" height="300">
 
 - **Dark Mode:** Toggle between light and dark mode for comfortable text manipulation in different lighting conditions.
   
-    <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(4).png" alt="Alt Text" height="500">
+    <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(4).png" alt="Alt Text" height="300">
 
-     <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(2).png" alt="Alt Text"  height="550">
+     <img src="https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(2).png" alt="Alt Text"  height="300">
 
 - **User-Friendly:** The app's intuitive design makes it easy to input text and view the results.
 - **Customizable:** Modify the app's appearance and functionality to suit your preferences.
