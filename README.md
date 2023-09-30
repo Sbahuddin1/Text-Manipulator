@@ -4,7 +4,7 @@ Sure, here's a sample README.md for your Text Manipulator React App that include
 
 # Text Manipulator React App
 
-![App Screenshot](./textApp (3).png)
+![App Screenshot](https://github.com/Sbahuddin1/Text-Manipulator/blob/main/public/textApp%20(3).png)
 
 ## Overview
 
